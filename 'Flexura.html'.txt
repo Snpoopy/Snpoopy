@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexura's Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5; /* Light tan white */
+            color: #333; /* Dark gray */
+        }
+        header {
+            background-color: #3498db; /* Lighter blue */
+            padding: 20px;
+            text-align: center;
+            color: #fff; /* White */
+        }
+        h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        footer {
+            background-color: #3498db; /* Lighter blue */
+            padding: 10px;
+            text-align: center;
+            color: #fff; /* White */
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Flexura's Personal Webpage</h1>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>Hello, I'm Flexura. I'm passionate about electronic cupping therapy and its benefits for health and well-being.</p>
+    </section>
+    <section>
+        <h2>My Interests</h2>
+        <p>I'm particularly interested in exploring the latest advancements in electronic cupping therapy devices and techniques.</p>
+    </section>
+    <footer>
+        <p>Thank you for visiting Flexura's Personal Webpage</p>
+    </footer>
+</body>
+</html>
